@@ -9,7 +9,3 @@ kike
 (Está en el archivo admin/config.php toda la info
 
 (no creé BD para este caso, porque me centré en blog)
-
-# Tengo 1 problema que no he sido capaz de resolver
-
-Cuando le das a página 2, el Icono de atras, se descuadra, y ya ni idea del porqué bro.
